@@ -280,9 +280,9 @@ async def _(event):
 
 ⎱ UserName: ↣ (@{username}❳!
 
-⎱ by : @S_Z_H
+⎱ by : @u_k_4
 
-⎱ by : @E_7_V **
+⎱ عمك منتظر **
     ''')
                     break
                 except telethon.errors.rpcerrorlist.UsernameInvalidError:
@@ -346,9 +346,9 @@ async def _(event):
 
 ⎱ UserName: ↣ (@{username}❳!
 
-⎱ by : @S_Z_H
+⎱ by : @u_k_4
 
-⎱ by : @E_7_V **
+⎱ عمك منتظر **
     ''')
                         break
                     except telethon.errors.rpcerrorlist.UsernameInvalidError:
@@ -383,9 +383,9 @@ async def _(event):
 
 ⎱ UserName: ↣ (@{username}❳!
 
-⎱ by : @S_Z_H
+⎱ by : @u_k_4
 
-⎱ by : @E_7_V
+⎱ عمك منتظر
 -- -- -- -- -- -- -- -- -- -- -- -- -- **
     ''')
             except telethon.errors.rpcerrorlist.UsernameInvalidError:
